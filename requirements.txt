@@ -1,0 +1,9 @@
+# Lower bounds; once it works, replace with the exact output of `pip freeze`
+# (mediapipe's legacy mp.solutions API is what this project uses).
+mediapipe>=0.10,<0.11
+opencv-python>=4.8
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.2
+joblib>=1.3
+pytest>=7.0
